@@ -1,3 +1,5 @@
+# this is the new version which i am publishing to git
+
 import random
 import getpass
 player1 = str(input("what is the first players name? "))
