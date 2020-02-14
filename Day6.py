@@ -2,6 +2,8 @@
 
 import random
 import getpass
+
+print("Welcome to Rock Paper Scissors!")
 player1 = str(input("what is the first players name? "))
 player2 = str(input("what is the second players name? "))
 
